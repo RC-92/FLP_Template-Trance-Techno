@@ -63,3 +63,7 @@ Sample Rate: 48,000 Hz
 - Track 36: "Sweep FX" - Gainsboro (#DCDCDC)
 - Track 37: "Transition" - White Smoke (#F5F5F5)
 - Track 38: "Reverse" - White (#FFFFFF)
+
+## Note: 
+### Issue: Name of Track changes when sample is dragged and dropped
+Fix: Main Menu → Options → General Settings -> Miscellaneous -> Uncheck "Auto Name Channels"
